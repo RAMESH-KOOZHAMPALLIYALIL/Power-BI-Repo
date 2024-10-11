@@ -2,21 +2,26 @@
 Assignment -1
 
 
-Import Data:
-Open Power BI Desktop and click on “Get Data” to import  data from various sources like Excel
+Overview
 
-Transform Data:
+This Power BI project analyzes discounts, sales, and profit, presenting key insights through various visualizations. The report includes:
+Quantity by Month and Category (Line Chart)
+ Sales by Country and Region (Map Chart)
 
-Use the Power Query Editor to clean and transform your data. This might include removing duplicates, changing data types, or creating new calculated columns.
+ Data Sources
+**Sales Data**: Contains information on sales transactions.
+**Geographical Data**: Includes country and region details for mapping.
 
-Create Data Model:
+Visualizations
+1. Quantity by Month and Category (Line Chart)
+This chart shows the quantity of items sold, broken down by month and category. It helps identify trends and peak sales periods.
+ 2. Sales by Country and Region (Map Chart)
+This map visualizes sales data by geographical location, providing insights into regional performance and market reach.
+ Setup Instructions
+1. **Import Data**: Load the provided datasets into Power BI.
+2. **Create Relationships**: Establish relationships between tables if necessary.
+3. **Build Visualizations**:
+    **Line Chart**: Use the Sales Data to plot quantity by month and category.
+   **Map Chart**: Use Geographical Data to plot sales by country and region.etc...
 
-Establish relationships between different tables in your data model. This helps in creating a cohesive dataset that can be used for visualizations.
 
-Design Visualizations:
-
-Drag and drop fields onto the canvas to create visualizations like charts, graphs, and maps. Customize these visuals by adjusting colors, labels, and other formatting options.
-
-Build the Dashboard:
-
-Arrange your visualizations on the canvas to create a dashboard layout.  add slicers and filters
